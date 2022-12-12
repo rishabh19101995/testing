@@ -2,4 +2,4 @@ This is a file to be commited.
 Learning to be a Devops Experts and thus starting with GIT.
 Restore it back to unstaging area.
 
-Feature 1: This is the modification in the feature 1
+Feature 2: modify Feature 2
