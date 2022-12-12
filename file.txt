@@ -1,1 +1,2 @@
 This is a file to be commited.
+Learning to be a Devops Experts and thus starting with GIT.
